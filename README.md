@@ -55,3 +55,6 @@ The web app should be up and running on ```http://minikubeip:30100```
 ### To start minikube
 ```minikube start```
 
+## Credits
+Thanks to Nana for making DevOps fun and easy.
+
